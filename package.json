@@ -9,9 +9,14 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@aws-sdk/client-bedrock-agent-runtime": "^3.1165.0",
+    "@aws-sdk/client-bedrock-runtime": "^3.1165.0",
+    "clsx": "^2.1.1",
+    "lucide-react": "^1.71.0",
     "next": "16.4.6",
     "react": "19.3.0",
-    "react-dom": "19.3.0"
+    "react-dom": "19.3.0",
+    "tailwind-merge": "^3.7.0"
   },
   "devDependencies": {
     "@tailwindcss/turbopack": "4.3.3",
